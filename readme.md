@@ -9,16 +9,16 @@ Hello and welcome to my GitHub profile! My name is Kirill and I'm a React Native
 - Redux / Mobx
 - Native iOS / Android development with Java, Kotlin, Swift, and Objective-C
 - WatchOS development with Swift
-- Sketch, Figma, Adobe Photoshop
-- Git
+- Figma, Adobe Photoshop
 - Node.js
 - Shell scripting
+- Web3
+- DeFi
 
 # Tools and Technologies 🛠️
 
 - App Store Connect / Google Play Console
 - Apple Pay / Google Pay
-- AppsFlyer
 - Xcode
 - Ruby for Podfile
 - Gradle
@@ -26,10 +26,3 @@ Hello and welcome to my GitHub profile! My name is Kirill and I'm a React Native
 - Mapbox
 - Firebase
 - RevenueCat
-
-# Personal Projects 📱
-
-- STEP iOS (https://vk.cc/ccOjQ3)
-- STEP Android (https://vk.cc/ccOjSt)
-- App Debugger iOS (https://vk.cc/cda5NC)
-- App Debugger Android (https://vk.cc/cda5HA)
