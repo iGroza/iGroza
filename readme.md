@@ -1,28 +1,30 @@
 # Ageichenko Kirill - React Native Developer 👨‍💻
 
-Hello and welcome to my GitHub profile! My name is Kirill and I'm a React Native developer with experience in native iOS and Android development as well.
+Welcome to my GitHub profile! I'm Kirill, a React Native developer specializing in iOS and Android development.
 
-# Skills 🚀
+## Skills 🚀
 
 - JavaScript / TypeScript
 - React Native
 - Redux / Mobx
-- Native iOS / Android development with Java, Kotlin, Swift, and Objective-C
-- WatchOS development with Swift
-- Figma, Adobe Photoshop
+- Native iOS / Android development (Java, Kotlin, Swift, Objective-C)
+- WatchOS development (Swift)
 - Node.js
 - Shell scripting
-- Web3
-- DeFi
+- Web3 / DeFi
+- EVM / Cosmos networks
 
-# Tools and Technologies 🛠️
+## Tools and Technologies 🛠️
 
+- Xcode / Android Studio
 - App Store Connect / Google Play Console
 - Apple Pay / Google Pay
-- Xcode
 - Ruby for Podfile
 - Gradle
-- Android Studio
 - Mapbox
 - Firebase
 - RevenueCat
+
+## About Me ℹ️
+
+I'm passionate about crafting seamless mobile experiences and exploring the latest trends in mobile development and crypto. Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/agkirill)!
