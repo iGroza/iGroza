@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Kirill, a React Native developer specializing 
 - Node.js
 - Shell scripting
 - Web3 / DeFi
-- EVM / Cosmos / Solana networks
+- EVM / Cosmos / TON / Solana networks
 
 ## Tools and Technologies 🛠️
 
