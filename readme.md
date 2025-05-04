@@ -1,4 +1,4 @@
-# Ageichenko Kirill - Senior React Native Web3 Developer 👨‍💻
+# Ageichenko Kirill - Senior Web3 Software Developer 👨‍💻
 
 Welcome to my GitHub profile! I'm Kirill, a Web3 Software Developer.
 
