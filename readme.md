@@ -1,11 +1,12 @@
 # Ageichenko Kirill - Senior React Native Web3 Developer 👨‍💻
 
-Welcome to my GitHub profile! I'm Kirill, a React Native developer specializing in iOS and Android development.
+Welcome to my GitHub profile! I'm Kirill, a Web3 Software Developer.
 
 ## Skills 🚀
 
 - JavaScript / TypeScript
-- React Native
+- express/next
+- React/React Native
 - Redux / Mobx
 - Native iOS / Android development (Java, Kotlin, Swift, Objective-C)
 - WatchOS development (Swift)
@@ -13,7 +14,8 @@ Welcome to my GitHub profile! I'm Kirill, a React Native developer specializing 
 - Shell scripting
 - Web3 / DeFi
 - EVM / Cosmos / TON / Solana networks
+- CI/CD
 
 ## About Me ℹ️
 
-I'm passionate about crafting seamless mobile experiences and exploring the latest trends in mobile development and crypto. Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/agkirill)!
+I'm passionate about crafting seamless quality experiences and exploring the latest trends in development and crypto. Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/agkirill)!
